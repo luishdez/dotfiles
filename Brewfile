@@ -1,3 +1,10 @@
+brew "kubectl"
+brew "kubectx"
+brew "helm"
+brew "gemini-cli"
+
 cask "google-chrome"
 cask "brave-browser"
+cask "capacities"
 cask "zed"
+cask "monokle"
