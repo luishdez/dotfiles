@@ -5,6 +5,7 @@ brew "gemini-cli"
 
 cask "google-chrome"
 cask "brave-browser"
+cask "whatsapp"
 cask "capacities"
 cask "zed"
 cask "monokle"
