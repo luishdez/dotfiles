@@ -5,7 +5,7 @@ if [ -f /Users/luis/.env ]; then
 fi
 
 # Aliases
-alias yadm='yadm --yadm-repo /Volumes/data/luishdez/dotfiles'
+alias ssh.key="cat ~/.ssh/id_rsa.pub"
 
 ## directories
 alias pr="cd /Volumes/data/"
