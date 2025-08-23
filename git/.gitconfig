@@ -2,4 +2,4 @@
 	email = luis.munoz.hdez@gmail.com
 	name = luishdez
 [core]
-	excludesfile = ~/.gitignore_global
+	excludesFile = /Volumes/data/projects/luishdez/dotfiles/git/.gitignore_global

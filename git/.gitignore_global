@@ -10,3 +10,6 @@ Icon
 __MACOSX/
 *.~*
 .fseventsd
+
+## IDes
+.monokle

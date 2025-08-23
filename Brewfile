@@ -1,11 +1,17 @@
+brew "n"
+brew "yarn"
 brew "kubectl"
 brew "kubectx"
 brew "helm"
 brew "gemini-cli"
+
+brew "postgresql"
+brew "postgis"
 
 cask "google-chrome"
 cask "brave-browser"
 cask "whatsapp"
 cask "capacities"
 cask "zed"
-cask "monokle"
+cask "lens"
+cask "vlc"

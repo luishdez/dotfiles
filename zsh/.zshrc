@@ -8,6 +8,7 @@ fi
 alias ssh.key="cat ~/.ssh/id_rsa.pub"
 
 ## directories
+alias oo="open ."
 alias pr="cd /Volumes/data/"
 alias dt="cd ~/Desktop"
 alias dl="cd ~/Downloads"

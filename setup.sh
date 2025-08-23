@@ -6,4 +6,5 @@ stow -v -t $HOME env
 stow -v -t $HOME ssh
 stow -v -t $HOME zsh
 stow -v -t $HOME git
-stow -v -t $HOME nvim
+stow -v -t $HOME zed
+stow -v -t $HOME kube
