@@ -1,4 +1,5 @@
 # development
+brew "nvim"
 brew "cspell"
 brew "vips"
 brew "pyenv"
